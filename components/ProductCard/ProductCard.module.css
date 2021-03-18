@@ -1,0 +1,15 @@
+.attributes {
+  display: flex;
+}
+
+.image {
+  width: 100%;
+}
+
+.name {
+  flex-grow: 1;
+}
+
+.price {
+  text-align: right;
+}
